@@ -1,0 +1,172 @@
+
+.total-payable-heading {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1C2024;
+  }
+  
+  .total-payable-amount {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #1C2024;
+  }
+  
+ 
+.total-payable-heading {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1C2024;
+  }
+  
+  .total-payable-amount {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #1C2024;
+  }
+  
+  .you-saved-section {
+    padding: 2px 6px 2px 6px ;
+    border-radius: 1000px;
+    gap: 4px;
+    background: #E9F9EE;
+    display: inline-block;
+  }
+  
+  
+
+  .background-text {
+    background: #E9F9EE;
+    color:  #299764;
+
+  }
+  
+  .saved-icon {
+    font-size: 12px;
+    color: #008000; 
+  }
+  
+  .icon-container {
+    display: inline-flex;
+    align-items: center;
+  }
+  
+
+  .charge-icon {
+    font-size: 14px; 
+    color: #60646C;
+    margin-right: 8px; 
+  }
+  
+  .charge-label {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #60646C;
+    text-decoration: underline;
+    display: inline-block;
+
+  }
+  
+
+  .paragraph-underline {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: underline;
+    background: linear-gradient(0deg, #60646C, #60646C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block; 
+    margin-bottom: 16px;
+  }
+  
+  .paragraph-underline-span {
+    background: linear-gradient(0deg, #3A5CCC, #3A5CCC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  p {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 16px; 
+  }
+  .confirm-pay-button {
+    padding: 16px 20px;
+    border-radius: 16px;
+    gap: 12px;
+    background: #000000;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    color: #EDEEF0;
+  }
+  
+  .confirm-pay-button i {
+    font-size: 18px;
+    color: #EDEEF0;
+  }
+  
+  .confirm-pay-button span {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #EDEEF0;
+  }
+  
+
+.brand-icons {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  
+  .brand-icon {
+    font-size: 36px;
+  }
+  
+  .visa {
+    background: #00579F;
+  }
+  
+  .mastercard {
+    background: linear-gradient(90deg, #ff5e00 50%, #ed0006 50%);
+  }
+  
+  .diners-club {
+    color: #0079BE;
+  }
+  
+ 
+  

@@ -1,0 +1,112 @@
+/* Cards.css */
+
+.inner-div {
+  gap: 12px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  color: #1C2024;
+  margin-top: 10px;
+}
+
+.listing-section {
+  max-width: 352px;
+  gap: 8px;
+}
+
+.list-item,
+.list-item-3,
+.last-list-item {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.date-icon {
+  width: 20px;
+  height: 20px;
+  padding: 1.25px 2.5px 2.5px 2.5px;
+  color: #090909;
+}
+
+.date-content {
+  max-width: 322px;
+  height: auto;
+  padding: 0px 0px 8px 0px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #090909;
+}
+
+.duration-value,
+.operating-hours,
+.time-values,
+.guest-text {
+  padding-bottom: 8px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.clock-icon,
+.guest-icon {
+  font-size: 14px;
+  color: #1C2024;
+}
+
+/* Additional Styling for Responsive Design */
+@media (max-width: 768px) {
+  .inner-div {
+    width: 100%;
+  }
+
+  .listing-section {
+    max-width: 100%;
+  }
+
+  .card-title {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: auto;
+  }
+
+  .date-icon,
+  .clock-icon,
+  .guest-icon {
+    font-size: 12px;
+  }
+}
+
+
+/* payment summary section css started here */
+.payment-summary{
+  color: #60646C;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.plus-sign {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.plus-sign span {
+  display: inline-block;
+  width: 12.5px;
+  height: 12.5px;
+  margin-left: 5px; 
+  color: #7E808A;
+}
+
+

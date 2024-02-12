@@ -1,0 +1,58 @@
+
+.Credit-Debit-Box{
+
+padding: 28px, 24px, 0px, 24px;
+border-radius: 16px;
+border: '1px';
+gap: 32px;
+
+color: linear-gradient(0deg, #1C2024, #1C2024),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 1px solid #1C2024
+
+}
+.credit-debit-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+
+
+.credit-card-icon {
+  color: #60646C;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.credit-debit-text {
+  flex: 1;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #1C2024;
+  margin: 0;
+}
+
+.radio-icon {
+  padding: 8px;
+  border-radius: 1000px;
+  gap: 10px;
+  color: #1C2024;
+}
+
+.brand-icons {
+  display: flex;
+  width: 100%;
+  gap: 8px;
+  padding: 10px;
+}
+
+.brand-icon {
+  font-size: 36px;
+}
+
+

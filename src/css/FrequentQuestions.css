@@ -1,0 +1,72 @@
+.faq-heading{
+  
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0.006em;
+text-align: left;
+color: #1C2024;
+
+}
+
+.faq-sub-heading{
+    color: #60646C;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.chat-section{
+padding: 24px;
+border-radius: 16px;
+justify-content: space-between;
+background: #F9F9FB;
+
+
+}
+
+.chat-heading{
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #1C2024;
+
+}
+
+.chat-button {
+    padding: 14px 16px;
+    border-radius: 12px;
+    gap: 8px;
+    background: #000000;
+  }
+  
+  .chat-button-text {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+ 
+    .chat-image {
+        width: 143.16px;
+        height: 84.83px;
+        top: -3.93px;
+        left: 6.99px;
+        border-radius: 10.71px;
+        color: #08E8DE;
+      }
+      
+
+ 
+  
